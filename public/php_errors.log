@@ -1,0 +1,1 @@
+[03-Dec-2024 14:10:45 UTC] PHP Fatal error:  Declaration of App\Repositories\CrudRepository::index($offset, $limit) must be compatible with App\Repositories\Interfaces\CrudRepositoryInterface::index() in D:\www\laravel\rest-api-crud\app\Repositories\CrudRepository.php on line 24

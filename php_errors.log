@@ -1,0 +1,2 @@
+[28-Nov-2024 20:30:39 UTC] PHP Fatal error:  Allowed memory size of 1074790400 bytes exhausted (tried to allocate 262144 bytes) in D:\www\laravel\rest-api-crud\tests\Feature\CompanyControllerTest.php on line 16
+[28-Nov-2024 21:31:21 UTC] PHP Fatal error:  Declaration of App\Http\Resources\CompanyResource::toArray(): array must be compatible with Illuminate\Http\Resources\Json\JsonResource::toArray(Illuminate\Http\Request $request) in D:\www\laravel\rest-api-crud\app\Http\Resources\CompanyResource.php on line 15
